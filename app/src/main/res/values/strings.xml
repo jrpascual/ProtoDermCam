@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DermCam</string>
+    <string name="llogin">Usuario</string>
+    <string name="lpass">Contraseña</string>
+    <string name="lentrar">Entrar</string>
+    <string name="ltipocita">Tipo Consulta</string>
+    <string name="ldiagnostico">Diagnóstico</string>
+    <string name="lnhc">NHC</string>
+    <string name="lfotos">Listado de fotos del paciente</string>
+</resources>
